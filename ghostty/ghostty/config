@@ -1,0 +1,15 @@
+# Set the theme
+theme = catppuccin-mocha
+
+# Window settings
+window-decoration = false
+
+# Font settings 
+font-family = FiraCode Nerd Font
+
+# Cursor settings
+cursor-style = block
+shell-integration-features = no-cursor
+
+# Keybindings
+keybind = ctrl+v=paste_from_clipboard
